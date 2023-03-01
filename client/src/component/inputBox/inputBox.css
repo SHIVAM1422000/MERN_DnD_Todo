@@ -1,0 +1,12 @@
+#InputBoxForm{
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+#iptBox{
+    text-align: center;
+    width: 40vw;
+}

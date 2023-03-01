@@ -1,0 +1,15 @@
+.SearchBox{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#searchBox{
+    margin: 10px;
+    width: 30vw;
+    height:50px;
+    text-align: center;
+
+}

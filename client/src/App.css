@@ -1,0 +1,17 @@
+.App{
+    text-align: center;
+    background-color: black;
+    
+    width: 100vw;
+    position: absolute;
+    top: 0;
+}
+
+.AppContainer{
+    margin-top: 5vh;
+}
+
+.heading{
+    color: aqua;
+    
+}

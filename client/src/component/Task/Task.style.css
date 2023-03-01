@@ -1,0 +1,15 @@
+.SingleTask{
+    border: 1px solid rgba(0, 255, 255, 0.68);
+    padding: 10px;
+    margin: 10px auto;
+    width: 50vw;
+    cursor: pointer;
+}
+
+
+h2{
+    color: white;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-weight: 2rem;
+}
+
