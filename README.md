@@ -1,5 +1,6 @@
-# MERN_DnD_Todo (Looking for a free resource to deploy. Will Update Soon)
-A Full Stack Mern Application with drag and drop feature on toDo List
+# MERN_DnD_Todo 
+(Looking for a free resource to deploy. Will Update Soon)
+### A Full Stack Mern Application with drag and drop feature on toDo List
 
 
 # HOW TO USE LOCALLY
